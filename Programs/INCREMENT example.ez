@@ -1,0 +1,5 @@
+Function main
+Integer $var1 = 0
+Inc $var1
+Say $var1
+Endfunc

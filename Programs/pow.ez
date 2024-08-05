@@ -1,0 +1,7 @@
+Function main
+Integer $powervariable = 0
+Pow 5 ^ 4 to $powervariable
+Say The value is: $powervariable
+Comment: Sample Program for Power math Funtion
+Comment: by: Nathaniel Piquero
+Endfunc

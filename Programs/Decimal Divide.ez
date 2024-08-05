@@ -1,0 +1,7 @@
+Function main
+Decimal $dec = 40
+Decimal $dec1 = 6
+Decimal $dec2 = 0
+Div $dec / $dec1 to $dec2
+Say $dec2
+Endfunc

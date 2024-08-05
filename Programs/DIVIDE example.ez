@@ -1,0 +1,14 @@
+Function main
+Integer $var1 = 0
+Integer $var2 = 0
+Integer $var3 = 0
+Say Enter var1
+Get $var1
+LineBreak 
+Say Enter var2
+Get $var2
+LineBreak 
+Div $var1 / $var2 to $var3
+LineBreak 
+Say The Quotient is: $var3
+Endfunc

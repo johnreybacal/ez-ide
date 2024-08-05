@@ -1,0 +1,10 @@
+Function main
+Integer x = 0
+Call www
+Say $x
+Endfunc
+Function www
+Say $x
+Integer x = 3
+Say $x
+Endfunc

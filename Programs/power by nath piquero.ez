@@ -1,0 +1,7 @@
+Function main
+Integer $power = 0
+Pow 5 ^ 2 to $power
+Say $power
+Comment: Sample Program for Power math Funtion
+Comment: by: Nathaniel Piquero
+Endfunc

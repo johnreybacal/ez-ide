@@ -1,0 +1,7 @@
+Function main
+Decimal $num2 = 8.65
+Decimal c = 0.0
+Decimal $num = 4.44
+Add $num + $num2 to $c
+Say $c
+Endfunc

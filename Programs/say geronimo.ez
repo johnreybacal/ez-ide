@@ -1,0 +1,17 @@
+Function geronimo
+Say geronimo
+Endfunc
+Function main
+Call geronimo
+Say omggg
+If 1 == 1
+Say tama
+If 1 == 2
+Say mali
+Else
+Say tama uli
+Endif
+Else
+Say maleeee
+Endif
+Endfunc

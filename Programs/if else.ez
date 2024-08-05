@@ -1,0 +1,7 @@
+Function main
+If 1 == 2
+Say not wow
+Else
+Say wow
+Endif
+Endfunc

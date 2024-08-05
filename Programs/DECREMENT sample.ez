@@ -1,0 +1,5 @@
+Function main
+Integer $var1 = 8
+Dec $var1
+Say $var1
+Endfunc

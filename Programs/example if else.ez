@@ -1,0 +1,12 @@
+Function main
+If 1 == 1
+Say tama
+If 1 == 2
+Say mali
+Else
+Say tama ulit
+Endif
+Else
+Say mali ulit
+Endif
+Endfunc

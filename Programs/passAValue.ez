@@ -1,0 +1,6 @@
+Function main
+Call wow sends 1, 2
+Endfunc
+Function wow receives Integer $x, Integer $y
+Say $x $y
+Endfunc

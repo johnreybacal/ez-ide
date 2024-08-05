@@ -1,0 +1,4 @@
+Function main
+Phrase x = omg
+Say $x $x.length
+Endfunc

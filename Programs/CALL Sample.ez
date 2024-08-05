@@ -1,0 +1,9 @@
+Function method1
+Integer $var1 = 0
+Get $var1
+LineBreak 
+Say You Enter $var1
+Endfunc
+Function main
+Call method1
+Endfunc

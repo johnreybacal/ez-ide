@@ -1,0 +1,11 @@
+Function main
+Integer $x = 0
+Integer $y = 5
+Say $y
+For $x = 0 to $y step 1
+Say $x
+Endfor
+For $x = 5 to 0 step -1
+Say $x
+Endfor
+Endfunc

@@ -1,0 +1,12 @@
+Integer $x = 5
+Function main
+Integer $y = 4
+Say $x
+LineBreak 
+Call runAway
+Endfunc
+Function runAway
+Say $x
+LineBreak 
+Say $y
+Endfunc

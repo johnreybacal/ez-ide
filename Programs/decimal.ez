@@ -1,0 +1,8 @@
+Function main
+Decimal $x = 1.2
+Decimal $y = 2.8
+Decimal $z = 0.0
+Sqrt of 16 to $z
+Say $z \n
+Add $x + $y to $z
+Endfunc

@@ -1,0 +1,6 @@
+Function main
+Integer $x = 0
+For $x = 0 to 5 step 1
+Say $x
+Endfor
+Endfunc

@@ -1,0 +1,13 @@
+Function main
+Integer x = 5
+Integer y = 2
+Integer z = 0
+Add $x + $y to z
+Say $z
+Sub $x - $y to z
+Say $z
+Mul $x * $y to z
+Say $z
+Div 4 / 2 to z
+Say $z
+Endfunc

@@ -1,0 +1,8 @@
+If 1 == 1
+If wow == wow
+Say wow
+Endif
+If wow != wow
+Say not wow
+Endif
+Endif

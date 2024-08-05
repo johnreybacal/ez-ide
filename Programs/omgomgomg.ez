@@ -1,0 +1,12 @@
+Function main
+Say amazing
+Integer x = 0
+Integer y = 0
+Integer z = 0
+Say input x
+Get x
+Say input y
+Get y
+Add $x + $y to z
+Say result: $z
+Endfunc

@@ -1,0 +1,11 @@
+Function main
+Phrase $var1 =                         0
+Get $var1
+LineBreak 
+Say Hello Philippines
+Comment: Hello World Sample
+LineBreak 
+Say Hello World
+LineBreak 
+Say $var1
+Endfunc

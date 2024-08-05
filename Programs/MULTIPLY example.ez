@@ -1,0 +1,11 @@
+Function main
+Integer $var1 = 0
+Integer $var2 = 0
+Integer $var3 = 0
+Get $var1
+LineBreak 
+Get $var2
+LineBreak 
+Mul $var1 * $var2 to $var3
+Say Product of $var1 * $var2 is equal to $var3
+Endfunc

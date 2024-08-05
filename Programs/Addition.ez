@@ -1,0 +1,12 @@
+Function main
+Integer $x = 0
+Integer $y = 0
+Integer $z = 0
+Say Add two numbers
+Say Input first number
+Get $x
+Say Input second number
+Get $y
+Add $x + $y to $z
+Say The sum is: $z
+Endfunc
